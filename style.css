@@ -1,0 +1,28 @@
+.texto {
+  font-size: 30px;
+  font-weight: bold;
+  margin: 20px;
+}
+
+.texto-cabecalho {
+  font-size: 24px;
+  color: aliceblue;
+  margin: 20px;
+  padding: 10px;
+}
+
+.texto-produto {
+  font-size: 20px;
+  color: aliceblue;
+  margin: 20px;
+  padding: 10px;
+  background-color: #424250;
+}
+
+.cabecalho-moda {
+  background-color: #BB86FC;
+}
+
+.cabecalho-casa {
+  background-color: #00C4B4;
+}
